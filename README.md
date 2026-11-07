@@ -36,3 +36,46 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mathiaselikem151-sketch/mathiaselikem151-sketch/output/github-snake.svg" />
 </picture>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+<a href="https://www.linkedin.com/in/mathias-hlormenu-167042422/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mathiaselikem151@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
