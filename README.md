@@ -4,3 +4,35 @@
 <img width="49%" src="https://github-readme-stats-dusky-tau-mtnf28ewby.vercel.app/api?username=mathiaselikem151-sketch&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
 <img width="49%" src="https://github-readme-stats-dusky-tau-mtnf28ewby.vercel.app/api/top-langs/?username=mathiaselikem151-sketch&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathiaselikem151-sketch/mathiaselikem151-sketch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathiaselikem151-sketch/mathiaselikem151-sketch/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mathiaselikem151-sketch/mathiaselikem151-sketch/output/github-snake.svg" />
+</picture>
+</div>
